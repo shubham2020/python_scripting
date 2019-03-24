@@ -2,7 +2,7 @@
 #VideoCapture from mobile camera usign droidcam module and ADB support
 #################################################################
 
-Author : Shubham Pathak
+#Author : Shubham Pathak
 
 #################################################################
 
